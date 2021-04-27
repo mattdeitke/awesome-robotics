@@ -57,6 +57,9 @@ This is a list of various books, courses and other resources for robotics. It's 
 
 
 ### Software and Libraries ###
+[**AI2-THOR**](https://ai2thor.allenai.org/)
+Python framework with a Unity backend, providing interaction, navigation, and manipulation support for household based robotic agents, consisting of 200+ of custom scenes, 1500+ custom interactive objects, many image modalities (e.g., RGB, Depth, segmentation), and 200+ actions.
+
 [**Gazebo**](http://gazebosim.org/)
 Robot Simulator
 
